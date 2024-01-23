@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 83994646,
+    "name": "4-Starred Ladybug of Doom",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 14261867,
+    "name": "8-Claws Scorpion",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 24140059,
+    "name": "A Cat of Ill Omen",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 49140998,
+    "name": "A Feather of the Phoenix",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 68170903,
+    "name": "A Feint Plan",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 21597117,
+    "name": "A Hero Emerges",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 295517,
+    "name": "A Legendary Ocean",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 89718302,
+    "name": "Abare Ushioni",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 18318842,
+    "name": "Abyss Soldier",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 41356845,
+    "name": "Acid Trap Hole",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 62325062,
+    "name": "Adhesion Trap Hole",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 25345186,
+    "name": "After the Struggle",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 18036057,
+    "name": "Airknight Parshath",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 29654737,
+    "name": "Amazoness Chain Master",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 94004268,
+    "name": "Amazoness Swords Woman",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 10509340,
+    "name": "Ancient Gear Beast",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 83104731,
+    "name": "Ancient Gear Golem",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 56094445,
+    "name": "Ancient Gear Soldier",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 58921041,
+    "name": "Anti-Spell Fragrance",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 9156135,
+    "name": "Apprentice Magician",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 40916023,
+    "name": "Aqua Spirit",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 49881766,
+    "name": "Archfiend Soldier",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 50287060,
+    "name": "Archfiend of Gilfer",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 22796548,
+    "name": "Archfiend's Oath",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 980973,
+    "name": "Armed Dragon LV3",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 46384672,
+    "name": "Armed Dragon LV5",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 9076207,
+    "name": "Armed Ninja",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 84430950,
+    "name": "Armed Samurai - Ben Kei",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 42364374,
+    "name": "Arsenal Bug",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 85489096,
+    "name": "Arsenal Summoner",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 37053871,
+    "name": "Astral Barrier",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 2134346,
+    "name": "Asura Priest",
+    "type": "Spirit Monster",
+    "number": 1
+  },
+  {
+    "id": 71453557,
+    "name": "Autonomous Action Unit",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 40619825,
+    "name": "Axe of Despair",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 47453433,
+    "name": "Back to Square One",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 7165085,
+    "name": "Bait Doll",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 39892082,
+    "name": "Balloon Lizard",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 61528025,
+    "name": "Banisher of the Light",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 10012614,
+    "name": "Banner of Courage",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 41925941,
+    "name": "Bark of Dark Ruler",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 78783370,
+    "name": "Barrel Behind the Door",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 81480460,
+    "name": "Barrel Dragon",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 48094997,
+    "name": "Battle Footballer",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 40133511,
+    "name": "Bazoo the Soul-Eater",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 20374520,
+    "name": "Begone, Knave!",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 22996376,
+    "name": "Behemoth the King of All Animals",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 39168895,
+    "name": "Berserk Gorilla",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 61127349,
+    "name": "Big Bang Shot",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 16768387,
+    "name": "Big Eye",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 65240384,
+    "name": "Big Shield Gardna",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 45547649,
+    "name": "Birdface",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 41426869,
+    "name": "Black Illusion Ritual",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 72989439,
+    "name": "Black Luster Soldier - Envoy of the Beginning",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 65169794,
+    "name": "Black Pendant",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 38670435,
+    "name": "Black Tyranno",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 39507162,
+    "name": "Blade Knight",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 58268433,
+    "name": "Blade Rabbit",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 28470714,
+    "name": "Bladefly",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 89041555,
+    "name": "Blast Held by a Tribute",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 98239899,
+    "name": "Blast with Chain",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 5464695,
+    "name": "Blazing Inpachi",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 25551951,
+    "name": "Blowback Dragon",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 89631139,
+    "name": "Blue-Eyes White Dragon",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 57409948,
+    "name": "Bombardment Beetle",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 2204140,
+    "name": "Book of Life",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 14087893,
+    "name": "Book of Moon",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 38699854,
+    "name": "Book of Taiyou",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 76532077,
+    "name": "Bottomless Shifting Sand",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 29401950,
+    "name": "Bottomless Trap Hole",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 52090844,
+    "name": "Bowganian",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 87910978,
+    "name": "Brain Control",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 40267580,
+    "name": "Brain Jacker",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 71413901,
+    "name": "Breaker the Magical Warrior",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 61622107,
+    "name": "Bubble Crash",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 78193831,
+    "name": "Buster Blader",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 69243953,
+    "name": "Butterfly Dagger - Elma",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 97077563,
+    "name": "Call of the Haunted",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 11384280,
+    "name": "Cannon Soldier",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 72892473,
+    "name": "Card Destruction",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 57953380,
+    "name": "Card of Safe Return",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 42664989,
+    "name": "Card of Sanctity",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 95841282,
+    "name": "Cat's Ear Tribe",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 93220472,
+    "name": "Cave Dragon",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 36468556,
+    "name": "Ceasefire",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 51394546,
+    "name": "Cemetary Bomb",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 20228463,
+    "name": "Ceremonial Bell",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 79323590,
+    "name": "Chain Energy",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 4031928,
+    "name": "Change of Heart",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 72630549,
+    "name": "Chaos Command Magician",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 82301904,
+    "name": "Chaos Emperor Dragon - Envoy of the End",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 1434352,
+    "name": "Chaos Necromancer",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 9596126,
+    "name": "Chaos Sorcerer",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 47829960,
+    "name": "Chaosrider Gustaph",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 13179332,
+    "name": "Charcoal Inpachi",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 16956455,
+    "name": "Chiron the Mage",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 81380218,
+    "name": "Chorus of Sanctuary",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 79853073,
+    "name": "Cipher Soldier",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 86801871,
+    "name": "Cobra Jar",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 65830223,
+    "name": "Coffin Seller",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 60682203,
+    "name": "Cold Wave",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 10375182,
+    "name": "Command Knight",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 94192409,
+    "name": "Compulsory Evacuation Device",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 17375316,
+    "name": "Confiscation",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 69035382,
+    "name": "Contract with the Abyss",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 96420087,
+    "name": "Contract with the Dark Master",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 74458486,
+    "name": "Covering Fire",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 93889755,
+    "name": "Crass Clown",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 31036355,
+    "name": "Creature Swap",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 14618326,
+    "name": "Crimson Ninja",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 41398771,
+    "name": "Curse of Aging",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 66742250,
+    "name": "Curse of Anubis",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 84970821,
+    "name": "Curse of Darkness",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 12470447,
+    "name": "Curse of Fiend",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 80316585,
+    "name": "Cyber Harpie Lady",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 34124316,
+    "name": "Cyber Jar",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 69015963,
+    "name": "Cyber-Stein",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 70074904,
+    "name": "D.D. Assailant",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 48148828,
+    "name": "D.D. Crazy Beast",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 33423043,
+    "name": "D.D. Designator",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 3773196,
+    "name": "D.D. Scout Plane",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 48092532,
+    "name": "D.D. Survivor",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 7572887,
+    "name": "D.D. Warrior Lady",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 11321183,
+    "name": "Dark Blade",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 70231910,
+    "name": "Dark Core",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 65287621,
+    "name": "Dark Driceratops",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 89111398,
+    "name": "Dark Dust Spirit",
+    "type": "Spirit Monster",
+    "number": 1
+  },
+  {
+    "id": 21417692,
+    "name": "Dark Elf",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 90928333,
+    "name": "Dark Factory of Mass Production",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 53129443,
+    "name": "Dark Hole",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 90980792,
+    "name": "Dark Jeroid",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 46986421,
+    "name": "Dark Magician",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 40737112,
+    "name": "Dark Magician of Chaos",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 97642679,
+    "name": "Dark Master - Zorc",
+    "type": "Ritual Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 74713516,
+    "name": "Dark Mimic LV1",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 1102515,
+    "name": "Dark Mimic LV3",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 20522190,
+    "name": "Dark Mirror Force",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 31829185,
+    "name": "Dark Necrofear",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 85562745,
+    "name": "Dark Room of Nightmare",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 53982768,
+    "name": "Dark Ruler Ha Des",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 61587183,
+    "name": "Dark Scorpion - Chick the Yellow",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 6967870,
+    "name": "Dark Scorpion - Cliff the Trap Remover",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 47233801,
+    "name": "Dark Snake Syndrome",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 57579381,
+    "name": "Darklord Marie",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 19159413,
+    "name": "De-Spell",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 69122763,
+    "name": "Deal of Phantom",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 10209545,
+    "name": "Decayed Commander",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 35027493,
+    "name": "Deck Devastation Virus",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 87621407,
+    "name": "Dekoichi the Battlechanted Locomotive",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 44763025,
+    "name": "Delinquent Duo",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 39131963,
+    "name": "Des Counterblow",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 12965761,
+    "name": "Des Dendle",
+    "type": "Union Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 81985784,
+    "name": "Des Feral Imp",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 78613627,
+    "name": "Des Kangaroo",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 69579761,
+    "name": "Des Koala",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 2326738,
+    "name": "Des Lacooda",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 9637706,
+    "name": "Des Wombat",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 93747864,
+    "name": "Desert Sunlight",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 72192100,
+    "name": "Desrook Archfiend",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 21219755,
+    "name": "Destruction Ring",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 3549275,
+    "name": "Dice Jar",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 11961740,
+    "name": "Different Dimension Capsule",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 56460688,
+    "name": "Different Dimension Gate",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 23557835,
+    "name": "Dimension Fusion",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 62113340,
+    "name": "Divine Dragon Ragnarok",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 49010598,
+    "name": "Divine Wrath",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 76922029,
+    "name": "Don Zaloog",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 44436472,
+    "name": "Double Coston",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 24096228,
+    "name": "Double Spell",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 16435215,
+    "name": "Dragged Down into the Grave",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 66672569,
+    "name": "Dragon Zombie",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 43250041,
+    "name": "Draining Shield",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 13215230,
+    "name": "Dream Clown",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 99050989,
+    "name": "Drillago",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 55773067,
+    "name": "Drop Off",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 13532663,
+    "name": "Dummy Golem",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 60082869,
+    "name": "Dust Tornado",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 82828051,
+    "name": "Earthquake",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 60866277,
+    "name": "Earthshaker",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 97342942,
+    "name": "Ectoplasmer",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 69954399,
+    "name": "Ekibyo Drakmord",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 30314994,
+    "name": "Element Dragon",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 65260293,
+    "name": "Element Magician",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 92755808,
+    "name": "Element Saurus",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 66712593,
+    "name": "Element Soldier",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 97623219,
+    "name": "Element Valkyrie",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 28649820,
+    "name": "Embodiment of Apophis",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 53046408,
+    "name": "Emergency Provisions",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 75043725,
+    "name": "Emissary of the Afterlife",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 98045062,
+    "name": "Enemy Controller",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 56916805,
+    "name": "Energy Drain",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 76909279,
+    "name": "Enraged Battle Ox",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 5556668,
+    "name": "Exchange",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 74131780,
+    "name": "Exiled Force",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 21598948,
+    "name": "Fairy Box",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 20188127,
+    "name": "Fairy of the Spring",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 3027001,
+    "name": "Fake Trap",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 218704,
+    "name": "Fenrir",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 78706415,
+    "name": "Fiber Jar",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 52503575,
+    "name": "Final Attack Orders",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 95308449,
+    "name": "Final Countdown",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 18591904,
+    "name": "Final Destiny",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 64752646,
+    "name": "Fire Princess",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 66788016,
+    "name": "Fissure",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 75560629,
+    "name": "Flint",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 84834865,
+    "name": "Flying Kamakiri #1",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 97806240,
+    "name": "Forced Ceasefire",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 88753985,
+    "name": "Fox Fire",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 16556849,
+    "name": "Freed the Brave Wanderer",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 49681811,
+    "name": "Freed the Matchless General",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 38538445,
+    "name": "Fushi No Tori",
+    "type": "Spirit Monster",
+    "number": 1
+  },
+  {
+    "id": 51632798,
+    "name": "Fusilier Dragon, the Dual-Mode Beast",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 49003308,
+    "name": "Gagagigo",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 56594520,
+    "name": "Gaia Power",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 77491079,
+    "name": "Gale Lizard",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 37313786,
+    "name": "Gamble",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 12800777,
+    "name": "Garuda the Wind Spirit",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 30190809,
+    "name": "Gear Golem the Moving Fortress",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 423705,
+    "name": "Gearfried the Iron Knight",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 69140098,
+    "name": "Gemini Elf",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 24668830,
+    "name": "Germ Infection",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 13386503,
+    "name": "Ghost Knight of Jackal",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 73698349,
+    "name": "Giant Orc",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 97017120,
+    "name": "Giant Rat",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 13039848,
+    "name": "Giant Soldier of Stone",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 42703248,
+    "name": "Giant Trunade",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 43793530,
+    "name": "Giga Gagagigo",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 47606319,
+    "name": "Gigantes",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 45894482,
+    "name": "Gilasaurus",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 78658564,
+    "name": "Goblin Attack Force",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 67959180,
+    "name": "Goddess of Whim",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 52323207,
+    "name": "Golem Sentry",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 52648457,
+    "name": "Gorgon's Eye",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 79571449,
+    "name": "Graceful Charity",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 74137509,
+    "name": "Graceful Dice",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 13944422,
+    "name": "Granadora",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 60229110,
+    "name": "Granmarg the Rock Monarch",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 25262697,
+    "name": "Gravekeeper's Assailant",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 62473983,
+    "name": "Gravekeeper's Chief",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 37101832,
+    "name": "Gravekeeper's Guard",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 16762927,
+    "name": "Gravekeeper's Servant",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 63695531,
+    "name": "Gravekeeper's Spear Soldier",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 24317029,
+    "name": "Gravekeeper's Spy",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 61705417,
+    "name": "Graverobber",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 85742772,
+    "name": "Gravity Bind",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 29618570,
+    "name": "Gray Wing",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 11813953,
+    "name": "Great Angus",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 61831093,
+    "name": "Greenkappa",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 36584821,
+    "name": "Gren Maju Da Eiza",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 68007326,
+    "name": "Guardian Angel Joan",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 9633505,
+    "name": "Guardian Kay'est",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 40659562,
+    "name": "Guardian Sphinx",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 75209824,
+    "name": "Guardian Statue",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 47879985,
+    "name": "Guardian of the Throne Room",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 9817927,
+    "name": "Gyaku-Gire Panda",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 88789641,
+    "name": "Hallowed Life Barrier",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 26412047,
+    "name": "Hammer Shot",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 91932350,
+    "name": "Harpie Lady 1",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 27927359,
+    "name": "Harpie Lady 2",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 54415063,
+    "name": "Harpie Lady 3",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 18144507,
+    "name": "Harpie's Feather Duster",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 75782277,
+    "name": "Harpies' Hunting Ground",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 21015833,
+    "name": "Hayabusa Knight",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 19613556,
+    "name": "Heavy Storm",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 40410110,
+    "name": "Homunculus the Alchemic Being",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 98069388,
+    "name": "Horn of Heaven",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 64047146,
+    "name": "Horn of the Unicorn",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 75830094,
+    "name": "Horus the Black Flame Dragon LV4",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 11224103,
+    "name": "Horus the Black Flame Dragon LV6",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 48229808,
+    "name": "Horus the Black Flame Dragon LV8",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 67629977,
+    "name": "Hoshiningen",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 93107608,
+    "name": "Howling Insect",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 46821314,
+    "name": "Humanoid Slime",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 2671330,
+    "name": "Hyper Hammerhead",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 21297224,
+    "name": "Hysteric Fairy",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 61740673,
+    "name": "Imperial Order",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 77084837,
+    "name": "Inaba White Rabbit",
+    "type": "Spirit Monster",
+    "number": 1
+  },
+  {
+    "id": 19847532,
+    "name": "Infernal Flame Emperor",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 79575620,
+    "name": "Injection Fairy Lily",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 35052053,
+    "name": "Insect Knight",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 36261276,
+    "name": "Interdimensional Matter Transporter",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 3056267,
+    "name": "Invader of the Throne",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 73431236,
+    "name": "Iron Blacksmith Kotetsu",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 21770260,
+    "name": "Jam Breeding Machine",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 83968380,
+    "name": "Jar of Greed",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 77585513,
+    "name": "Jinzo",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 32809211,
+    "name": "Jinzo #7",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 94773007,
+    "name": "Jirai Gumo",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 41855169,
+    "name": "Jowgen the Spiritualist",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 55256016,
+    "name": "Judgment of Anubis",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 35059553,
+    "name": "Kaiser Colosseum",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 23289281,
+    "name": "Karate Man",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 54878498,
+    "name": "Kelbek",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 83986578,
+    "name": "King Tiger Wanghu",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 4266839,
+    "name": "Kiseitai",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 40640057,
+    "name": "Kuriboh",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 88240808,
+    "name": "Kycoo the Ghost Destroyer",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 66526672,
+    "name": "Labyrinth of Nightmare",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 90147755,
+    "name": "Lady Assailant of Flames",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 82005435,
+    "name": "Lady Ninja Yae",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 28566710,
+    "name": "Last Turn",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 85602018,
+    "name": "Last Will",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 102380,
+    "name": "Lava Golem",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 25773409,
+    "name": "Legendary Jujitsu Master",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 16475472,
+    "name": "Lesser Fiend",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 3136426,
+    "name": "Level Limit - Area B",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 25290459,
+    "name": "Level Up!",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 37721209,
+    "name": "Levia-Dragon - Daedalus",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 14318794,
+    "name": "Life Absorbing Machine",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 69162969,
+    "name": "Lightning Vortex",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 23171610,
+    "name": "Limiter Removal",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 68658728,
+    "name": "Little Chimera",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 90790253,
+    "name": "Little-Winguard",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 40320754,
+    "name": "Lord Poison",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 81777047,
+    "name": "Luminous Spark",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 11091375,
+    "name": "Luster Dragon",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 17658803,
+    "name": "Luster Dragon #2",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 79182538,
+    "name": "Mad Dog of Darkness",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 83746708,
+    "name": "Mage Power",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 62279055,
+    "name": "Magic Cylinder",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 59344077,
+    "name": "Magic Drain",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 77414722,
+    "name": "Magic Jammer",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 81210420,
+    "name": "Magical Hats",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 8034697,
+    "name": "Magical Marionette",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 32362575,
+    "name": "Magical Merchant",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 34206604,
+    "name": "Magical Scientist",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 31560081,
+    "name": "Magician of Faith",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 93013676,
+    "name": "Maha Vailo",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 17214465,
+    "name": "Maiden of the Aqua",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 21593977,
+    "name": "Makyura the Destructor",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 99597615,
+    "name": "Malevolent Nuzzler",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 13626450,
+    "name": "Malice Dispersion",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 54652250,
+    "name": "Man-Eater Bug",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 95492061,
+    "name": "Manju of the Ten Thousand Hands",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 77121851,
+    "name": "Manticore of Darkness",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 2460565,
+    "name": "Marauding Captain",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 82432018,
+    "name": "Mask of Brutality",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 28933734,
+    "name": "Mask of Darkness",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 29549364,
+    "name": "Mask of Restrict",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 57882509,
+    "name": "Mask of Weakness",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 56948373,
+    "name": "Mask of the Accursed",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 39191307,
+    "name": "Masked Dragon",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 10189126,
+    "name": "Masked Sorcerer",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 22609617,
+    "name": "Mataza the Zapper",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 2694423,
+    "name": "Medusa Worm",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 46820049,
+    "name": "Mefist the Infernal General",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 22046459,
+    "name": "Megamorph",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 44656491,
+    "name": "Messenger of Peace",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 68540059,
+    "name": "Metalmorph",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 46411259,
+    "name": "Metamorphosis",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 33767325,
+    "name": "Meteor of Destruction",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 37580756,
+    "name": "Michizure",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 18190572,
+    "name": "Micro Ray",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 7489323,
+    "name": "Milus Radiant",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 37520316,
+    "name": "Mind Control",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 15800838,
+    "name": "Mind Crush",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 1918087,
+    "name": "Minor Goblin Official",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 15960641,
+    "name": "Mirage Dragon",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 41482598,
+    "name": "Mirage of Nightmare",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 44095762,
+    "name": "Mirror Force",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 22359980,
+    "name": "Mirror Wall",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 4929256,
+    "name": "Mobius the Frost Monarch",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 75285069,
+    "name": "Moisture Creature",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 19384334,
+    "name": "Molten Destruction",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 4732017,
+    "name": "Molten Zombie",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 43040603,
+    "name": "Monster Gate",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 83764719,
+    "name": "Monster Reborn",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 74848038,
+    "name": "Monster Reincarnation",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 33508719,
+    "name": "Morphing Jar",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 79106360,
+    "name": "Morphing Jar #2",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 57839750,
+    "name": "Mother Grizzly",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 46657337,
+    "name": "Muka Muka",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 69279219,
+    "name": "My Body as a Shield",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 1347977,
+    "name": "Mysterious Guard",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 18161786,
+    "name": "Mystic Plasma Zone",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 47507260,
+    "name": "Mystic Swordsman LV2",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 74591968,
+    "name": "Mystic Swordsman LV4",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 83011278,
+    "name": "Mystic Tomato",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 98745000,
+    "name": "Mystical Knight of Jackal",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 5318639,
+    "name": "Mystical Space Typhoon",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 80161395,
+    "name": "Mystik Wok",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 47355498,
+    "name": "Necrovalley",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 98162242,
+    "name": "Needle Burrower",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 38411870,
+    "name": "Needle Ceiling",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 38299233,
+    "name": "Needle Wall",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 14315573,
+    "name": "Negate Attack",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 4335645,
+    "name": "Newdoria",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 16226786,
+    "name": "Night Assailant",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 59290628,
+    "name": "Nightmare Horse",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 81306586,
+    "name": "Nightmare Penguin",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 54704216,
+    "name": "Nightmare Wheel",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 4041838,
+    "name": "Ninja Grandmaster Sasuke",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 71044499,
+    "name": "Nobleman of Crossout",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 17449108,
+    "name": "Nobleman of Extermination",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 65878864,
+    "name": "Nobleman-Eater Bug",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 19230408,
+    "name": "Offerings to the Doomed",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 29843091,
+    "name": "Ojama Trio",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 45141844,
+    "name": "Old Vindictive Magician",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 39537362,
+    "name": "Ordeal of a Traveler",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 74191942,
+    "name": "Painful Choice",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 73398797,
+    "name": "Paladin of White Dragon",
+    "type": "Ritual Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 50152549,
+    "name": "Paralyzing Potion",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 63356631,
+    "name": "Phoenix Wing Wind Blast",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 74270067,
+    "name": "Pikeru's Circle of Enchantment",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 90669991,
+    "name": "Pineapple Blast",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 88975532,
+    "name": "Pitch-Black Warwolf",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 35429292,
+    "name": "Pixie Knight",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 8842266,
+    "name": "Poison of the Old Man",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 73578229,
+    "name": "Pole Position",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 52860176,
+    "name": "Possessed Dark Soul",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 55144522,
+    "name": "Pot of Greed",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 70828912,
+    "name": "Premature Burial",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 91559748,
+    "name": "Prickle Fairy",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 51371017,
+    "name": "Princess of Tsurugi",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 76754619,
+    "name": "Pyramid Energy",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 77044671,
+    "name": "Pyramid Turtle",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 31440542,
+    "name": "Rafflesia Seduction",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 90810762,
+    "name": "Raging Flame Sprite",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 12580477,
+    "name": "Raigeki",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 4178474,
+    "name": "Raigeki Break",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 21347810,
+    "name": "Rainbow Flower",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 31785398,
+    "name": "Ready for Intercepting",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 33066139,
+    "name": "Reaper of the Cards",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 58577036,
+    "name": "Reasoning",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 37576645,
+    "name": "Reckless Greed",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 2851070,
+    "name": "Reflect Bounder",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 70821187,
+    "name": "Regenerating Mummy",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 32807846,
+    "name": "Reinforcement of the Army",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 17814387,
+    "name": "Reinforcements",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 64631466,
+    "name": "Relinquished",
+    "type": "Ritual Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 22589918,
+    "name": "Reload",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 51482758,
+    "name": "Remove Trap",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 14878872,
+    "name": "Rescue Cat",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 27174286,
+    "name": "Return from the Different Dimension",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 31709826,
+    "name": "Revival Jam",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 83555666,
+    "name": "Ring of Destruction",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 34016756,
+    "name": "Riryoku",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 70344351,
+    "name": "Riryoku Field",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 45778932,
+    "name": "Rising Air Current",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 30450531,
+    "name": "Rite of Spirit",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 90846359,
+    "name": "Rivalry of Warlords",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 88279736,
+    "name": "Robbin' Goblin",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 93382620,
+    "name": "Rope of Life",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 46303688,
+    "name": "Roulette Barrel",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 51452091,
+    "name": "Royal Decree",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 16509093,
+    "name": "Royal Keeper",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 70791313,
+    "name": "Royal Magical Library",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 93016201,
+    "name": "Royal Oppression",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 56058888,
+    "name": "Royal Surrender",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 72405967,
+    "name": "Royal Tribute",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 70046172,
+    "name": "Rush Recklessly",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 42647539,
+    "name": "Ryu-Kishin Clown",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 30914564,
+    "name": "Sacred Crane",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 61441708,
+    "name": "Sacred Phoenix of Nephthys",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 56120475,
+    "name": "Sakuretsu Armor",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 26202165,
+    "name": "Sangan",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 16222645,
+    "name": "Sasuke Samurai",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 64538655,
+    "name": "Sasuke Samurai #4",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 73915051,
+    "name": "Scapegoat",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 42071342,
+    "name": "Sea Serpent Warrior of Darkness",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 27053506,
+    "name": "Secret Barrel",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 23401840,
+    "name": "Senju of the Thousand Hands",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 71829750,
+    "name": "Serpentine Princess",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 2792265,
+    "name": "Servant of Catabolism",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 3819470,
+    "name": "Seven Tools of the Bandit",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 9603356,
+    "name": "Shadowknight Archfiend",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 56830749,
+    "name": "Share the Pain",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 52097679,
+    "name": "Shield & Sword",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 60365591,
+    "name": "Shinato's Ark",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 86327225,
+    "name": "Shinato, King of a Higher Plane",
+    "type": "Ritual Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 95956346,
+    "name": "Shining Angel",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 95638658,
+    "name": "Shooting Star Bow - Ceal",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 1995985,
+    "name": "Silent Swordsman LV3",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 74388798,
+    "name": "Silent Swordsman LV5",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 73001017,
+    "name": "Silpheed",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 8131171,
+    "name": "Sinister Serpent",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 82732705,
+    "name": "Skill Drain",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 73752131,
+    "name": "Skilled Dark Magician",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 46363422,
+    "name": "Skilled White Magician",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 61370518,
+    "name": "Skull Archfiend of Lightning",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 126218,
+    "name": "Skull Dice",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 6733059,
+    "name": "Skull Lair",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 5265750,
+    "name": "Skull Mariner",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 78636495,
+    "name": "Slate Warrior",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 97169186,
+    "name": "Smashing Ground",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 45986603,
+    "name": "Snatch Steal",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 45985838,
+    "name": "Solar Flare Dragon",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 41420027,
+    "name": "Solemn Judgment",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 35346968,
+    "name": "Solemn Wishes",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 57617178,
+    "name": "Sonic Bird",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 84696266,
+    "name": "Sonic Duck",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 68005187,
+    "name": "Soul Exchange",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 5758500,
+    "name": "Soul Release",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 92924317,
+    "name": "Soul Resurrection",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 77527210,
+    "name": "Soul of Purity and Light",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 58551308,
+    "name": "Spear Cretin",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 31553716,
+    "name": "Spear Dragon",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 42598242,
+    "name": "Special Hurricane",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 51481927,
+    "name": "Spell Absorption",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 1669772,
+    "name": "Spell Purification",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 29228529,
+    "name": "Spell Reproduction",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 38275183,
+    "name": "Spell Shield Type-8",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 18807109,
+    "name": "Spellbinding Circle",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 53239672,
+    "name": "Spirit Barrier",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 48659020,
+    "name": "Spirit Caller",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 23205979,
+    "name": "Spirit Reaper",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 13522325,
+    "name": "Spirit of Flames",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 15866454,
+    "name": "Spiritualism",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 8201910,
+    "name": "Star Boy",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 3510565,
+    "name": "Stealth Bird",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 13599884,
+    "name": "Steel Scorpion",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 60764581,
+    "name": "Stray Lambs",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 41006930,
+    "name": "Strike Ninja",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 34646691,
+    "name": "Stumbling",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 14644902,
+    "name": "Summoner of Illusions",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 27770341,
+    "name": "Super Rejuvenation",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 40473581,
+    "name": "Susa Soldier",
+    "type": "Spirit Monster",
+    "number": 1
+  },
+  {
+    "id": 41872150,
+    "name": "Swarm of Locusts",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 15383415,
+    "name": "Swarm of Scarabs",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 16589042,
+    "name": "Swift Gaia the Fierce Knight",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 12923641,
+    "name": "Swords of Concealing Light",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 72302403,
+    "name": "Swords of Revealing Light",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 73628505,
+    "name": "Terraforming",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 35975813,
+    "name": "Terrorking Archfiend",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 61505339,
+    "name": "The Creator",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 97093037,
+    "name": "The Creator Incarnate",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 30606547,
+    "name": "The Dark Door",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 93346024,
+    "name": "The Dragon Dwelling in the Cave",
+    "type": "Normal Monster",
+    "number": 1
+  },
+  {
+    "id": 65403020,
+    "name": "The End of Anubis",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 66362965,
+    "name": "The Fiend Megacyber",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 42829885,
+    "name": "The Forceful Sentry",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 1525329,
+    "name": "The Hunter with 7 Weapons",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 3643300,
+    "name": "The Legendary Fisherman",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 296499,
+    "name": "The Regulation of Tribe",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 76305638,
+    "name": "The Rock Spirit",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 43434803,
+    "name": "The Shallow Grave",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 99517131,
+    "name": "The Spell Absorbing Life",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 38479725,
+    "name": "The Trojan Horse",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 95281259,
+    "name": "The Warrior Returning Alive",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 6285791,
+    "name": "The Wicked Worm Beast",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 26205777,
+    "name": "Thestalos the Firestorm Monarch",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 36361633,
+    "name": "Threatening Roar",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 70797118,
+    "name": "Thunder Nyan Nyan",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 91781589,
+    "name": "Thunder of Ruler",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 35316708,
+    "name": "Time Seal",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 71625222,
+    "name": "Time Wizard",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 82003859,
+    "name": "Toll",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 79875176,
+    "name": "Toon Cannon Soldier",
+    "type": "Toon Monster",
+    "number": 1
+  },
+  {
+    "id": 42386471,
+    "name": "Toon Gemini Elf",
+    "type": "Toon Monster",
+    "number": 1
+  },
+  {
+    "id": 15270885,
+    "name": "Toon Goblin Attack Force",
+    "type": "Toon Monster",
+    "number": 1
+  },
+  {
+    "id": 89997728,
+    "name": "Toon Table of Contents",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 71283180,
+    "name": "Tornado Bird",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 18605135,
+    "name": "Tornado Wall",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 53582587,
+    "name": "Torrential Tribute",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 64697231,
+    "name": "Trap Dustshoot",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 4206964,
+    "name": "Trap Hole",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 19252988,
+    "name": "Trap Jammer",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 46461247,
+    "name": "Trap Master",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 46918794,
+    "name": "Tremendous Fire",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 33184167,
+    "name": "Tribe-Infecting Virus",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 79759861,
+    "name": "Tribute to the Doomed",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 34853266,
+    "name": "Tsukuyomi",
+    "type": "Spirit Monster",
+    "number": 1
+  },
+  {
+    "id": 43586926,
+    "name": "Twin-Headed Behemoth",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 94568601,
+    "name": "Tyrant Dragon",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 60806437,
+    "name": "UFO Turtle",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 67934141,
+    "name": "Ultimate Baseball Kid",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 80604092,
+    "name": "Ultimate Offering",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 22702055,
+    "name": "Umi",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 82999629,
+    "name": "Umiiruka",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 56747793,
+    "name": "United We Stand",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 70368879,
+    "name": "Upstart Goblin",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 56387350,
+    "name": "Vampire Baby",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 53839837,
+    "name": "Vampire Lord",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 46571052,
+    "name": "Vampiric Orchis",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 12607053,
+    "name": "Waboku",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 13945283,
+    "name": "Wall of Illusion",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 17078030,
+    "name": "Wall of Revealing Light",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 38992735,
+    "name": "Wave-Motion Cannon",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 15090429,
+    "name": "Whirlwind Prodigy",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 9786492,
+    "name": "White Dragon Ritual",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 15150365,
+    "name": "White Magical Hat",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 81383947,
+    "name": "White Magician Pikeru",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 1571945,
+    "name": "White Ninja",
+    "type": "Flip Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 77754944,
+    "name": "Widespread Ruin",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 61166988,
+    "name": "Wild Nature's Release",
+    "type": "Spell Card",
+    "number": 1
+  },
+  {
+    "id": 59744639,
+    "name": "Windstorm of Etaqua",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 57116033,
+    "name": "Winged Kuriboh",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 87523462,
+    "name": "Winged Sage Falcos",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 78010363,
+    "name": "Witch of the Black Forest",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 80741828,
+    "name": "Witch's Apprentice",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 76515293,
+    "name": "Xing Zhen Hu",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 65622692,
+    "name": "Y-Dragon Head",
+    "type": "Union Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 76862289,
+    "name": "Yamata Dragon",
+    "type": "Spirit Monster",
+    "number": 1
+  },
+  {
+    "id": 3078576,
+    "name": "Yata-Garasu",
+    "type": "Spirit Monster",
+    "number": 1
+  },
+  {
+    "id": 51534754,
+    "name": "Yomi Ship",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 64500000,
+    "name": "Z-Metal Tank",
+    "type": "Union Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 51945556,
+    "name": "Zaborg the Thunder Monarch",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 83133491,
+    "name": "Zero Gravity",
+    "type": "Trap Card",
+    "number": 1
+  },
+  {
+    "id": 16268841,
+    "name": "Zolga",
+    "type": "Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 47693640,
+    "name": "Zombie Tiger",
+    "type": "Union Effect Monster",
+    "number": 1
+  },
+  {
+    "id": 88472456,
+    "name": "Zombyra the Dark",
+    "type": "Effect Monster",
+    "number": 1
+  }
+]
