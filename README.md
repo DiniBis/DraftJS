@@ -2,8 +2,8 @@
 ![Beautiful Headhuntress](/media/logo.jpg)
 
 ## Entrée: Fichier .csv
-[source de fichiers csv de boite de draft](https://ygoprodeck.com/cube/)
-(sûrement converti en .json pour simplifier)
+[source de fichiers csv de boite de draft](https://ygoprodeck.com/cube/)  
+(sûrement converti en .json pour simplifier)  
 [convertisseur CSV->JSON](https://csvjson.com/csv2json)
 
 ## Boucle de jeu
@@ -27,8 +27,8 @@
 Renvoie *nombre de joueur* fichiers en .ydk pour être lue sur EDOPro
 
 ### Ressources
-[prendre des clés aléatoires](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
-[API ygopro](https://ygoprodeck.com/api-guide/)
+[prendre des clés aléatoires](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)  
+[API ygopro](https://ygoprodeck.com/api-guide/)  
 Exemple de fichier ydk, format à reprendre pour la sortie dans une balise texte html:
 ![Exemple de fichier ydk](/media/ydk.png)
 [Exemple d'un fichier complet](https://github.com/Larikk/ygo-ydk-files/blob/main/deck/STA03%20Joey.ydk)
@@ -50,8 +50,8 @@ Selection de cartes:
     - Supprimer les cartes du json local pour ne pas les tirer à nouveau
 
 ### Note, ajout de cette ligne dans le csv originel pour que la conversion en JSON l'utilise comme clé
-> "id", "name", "type", "number"
-ex: pour *Big Eye*
+> "id", "name", "type", "number"  
+ex: pour *Big Eye*  
 {
     "id": 16768387,
     "name": "Big Eye",
