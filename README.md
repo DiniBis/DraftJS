@@ -29,8 +29,8 @@ Renvoie *nombre de joueur* fichiers en .ydk pour être lue sur EDOPro
 ### Ressources
 [prendre des clés aléatoires](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)  
 [API ygopro](https://ygoprodeck.com/api-guide/)  
-Exemple de fichier ydk, format à reprendre pour la sortie dans une balise texte html:
-![Exemple de fichier ydk](/media/ydk.png)
+Exemple de fichier ydk, format à reprendre pour la sortie dans une balise texte html:  
+![Exemple de fichier ydk](/media/ydk.png)  
 [Exemple d'un fichier complet](https://github.com/Larikk/ygo-ydk-files/blob/main/deck/STA03%20Joey.ydk)
 ### Fonctions:
 
