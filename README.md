@@ -1,12 +1,13 @@
 # YGO DRAFT JS
+[Exemple de fichier ydk](/media/logo.png)
 
 ## Entrée: Fichier .csv
-[sourceDeFichiersCsvDeBoiteDeDraft](https://ygoprodeck.com/cube/)
+[source de fichiers csv de boite de draft](https://ygoprodeck.com/cube/)
 (sûrement converti en .json pour simplifier)
-[convertisseurCSV->JSON](https://csvjson.com/csv2json)
+[convertisseur CSV->JSON](https://csvjson.com/csv2json)
 
 ## Boucle de jeu
-- [APIygoPRO](https://ygoprodeck.com/api-guide/) pour trouver par exemple la description d'une carte via son id et l'afficher sur l'html
+- [API ygopro](https://ygoprodeck.com/api-guide/) pour trouver par exemple la description d'une carte via son id et l'afficher sur l'html
 - Entrée du *nombre de joueurs* (entre 1 et 3)
 - Tant que !condition de fin :
     - Affichage et sélection des *nombre de joueurs* cartes au dessus de la boîte (selection aléatoire)
@@ -26,10 +27,10 @@
 Renvoie *nombre de joueur* fichiers en .ydk pour être lue sur EDOPro
 
 ### Ressources
-[prendreDesClésPourL'aléatoireEnJS](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
-[APIygoPRO](https://ygoprodeck.com/api-guide/)
+[prendre des clés aléatoires](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
+[API ygopro](https://ygoprodeck.com/api-guide/)
 Exemple de fichier ydk, format à reprendre pour la sortie dans une balise texte html:
-![Exemple de fichier ydk](/media/image.png)
+[Exemple de fichier ydk](/media/ydk.png)
 [Exemple d'un fichier complet](https://github.com/Larikk/ygo-ydk-files/blob/main/deck/STA03%20Joey.ydk)
 ### Fonctions:
 
@@ -57,3 +58,6 @@ ex: pour *Big Eye*
     "type": "Flip Effect Monster",
     "number": 1
 }
+
+
+[Maquette du rendu final](/media/figma.png)
