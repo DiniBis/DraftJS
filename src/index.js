@@ -1,3 +1,4 @@
+//Connexion au Json local
 fetch('yugioh-cube.json')
     .then(response => response.json())
     .then(data => {
@@ -6,63 +7,68 @@ fetch('yugioh-cube.json')
     .catch(error =>
         console.error('Erreur json local',error))
 
-/* //Requête à l'API de YGOPro
-async function loadData() {
-    try {
-        let jsonDataRequest = await fetch('https://db.ygoprodeck.com/api/v7/cardinfo.php')
-        let jsonData = await jsonDataRequest.json()
-        return jsonData
-    } catch (err) {
-        console.log(`Erreur chargement JSON de l'API`, err)
-    }
-} */
 
-//Exemple de requête avec l'id du Golem de Lave
+//Exemple de requête avec l'id de Head Huntress
 async function loadData() {
     try {
-        let jsonDataRequest = await fetch('https://db.ygoprodeck.com/api/v7/cardinfo.php?id=102380&language=fr') //id remplaçable selon la carte
+        let carteId = 4031928
+        let jsonDataRequest = await fetch('https://db.ygoprodeck.com/api/v7/cardinfo.php?id='+carteId+'&language=fr') //id remplaçable selon la carte
         let jsonData = await jsonDataRequest.json()
+        console.log(jsonData)
         return jsonData
     } catch (err) {
         console.log(`Une erreur s'est produite`, err)
     }
 }
-//Je remplace l'image 1 par celle à l'id du golem de lave
+
+//Remplacer l'image
 const setupImg1 = document.getElementById('carte1Image')
-setupImg1.addEventListener('click', async () => {
+document.addEventListener("DOMContentLoaded", async () => {
     let imageTest = await loadData()
-    console.log(imageTest)
     const monimageTest = document.getElementById('carte1Image')
     monimageTest.setAttribute("src", (imageTest.data[0].card_images[0].image_url))
 })
 
-//Je remplace le texte 1 par celle à l'id du golem de lave
+//Remplacer la description
 const setupDesc1 = document.getElementById('carte1Description')
-setupDesc1.addEventListener('click', async () => {
+document.addEventListener("DOMContentLoaded", async () => {
     let descTest = await loadData()
-    console.log(descTest.data[0].desc)
     setupDesc1.textContent=(descTest.data[0].desc)
 })
 
-//Exemple de requête dans MON json
-
-
+//Remplacer le nom
 const setupNom1 = document.getElementById('carte1Nom')
+document.addEventListener("DOMContentLoaded", async () => {
+    let Test = await loadData()
+    setupNom1.textContent=(Test.data[0].name)
+})
 
+//Remplacer le type
+const setupType1 = document.getElementById('carte1Type')
+document.addEventListener("DOMContentLoaded", async () => {
+    let Test = await loadData()
+    setupType1.textContent=('Type: '+Test.data[0].type)
+})
 
+//Remplacer le Niveau
+const setupNiveau1 = document.getElementById('carte1Niveau')
+document.addEventListener("DOMContentLoaded", async () => {
+    let Test = await loadData()
+    setupNiveau1.textContent=('Niveau: '+Test.data[0]?.level)
+})
 
-//Ancien exemples à adapter
-/* const setupDogPic = document.getElementById('ex_02_btn')
-setupDogPic.addEventListener('click', async () => {
-    let imagedeChien = await loadData()
-    const monImageDeChien = document.getElementById('ex_02_img')
-    monImageDeChien.setAttribute("src", imagedeChien["message"])
-}) */
+/*
+Boucle de jeu
 
+Début: Selection du [nombre de joueurs]
 
-/* async function setupSwapi() {
-    const response = await fetch(src="https://swapi.dev/")
-    const data = await response.json()
-    let persoName = document.querySelector('h3');
-    persoName.textContent=data.name;
-} */
+Prendre [nombre de joueurs] id aléatoire différents depuis le json local
+Tous les afficher en utilisant l'API, via leurs id stockés sur [nombre de joueurs] variables
+https://db.ygoprodeck.com/api/v7/cardinfo.php?id= MON ID ICI &language=fr'
+
+Quand un joueur clique sur une carte:
+    - Elle ne peut plus être selectionnée
+    - Elle est grisée
+    - Elle est retirée du json local pour ne plus tomber à nouveau
+    - Elle est ajoutée au <.ydk> du joueur correspondant
+*/

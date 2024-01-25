@@ -34,3 +34,7 @@ img{
     width: 300px;
     height: 440px;
 }
+
+ul {
+    list-style-type: none;
+}
