@@ -1,6 +1,10 @@
-/* import data from './yugioh-cube.json' 
-
-console.log(data) */
+fetch('yugioh-cube.json')
+    .then(response => response.json())
+    .then(data => {
+    console.log(data)
+    })
+    .catch(error =>
+        console.error('Erreur json local',error))
 
 
 /* //Requête à l'API de YGOPro
