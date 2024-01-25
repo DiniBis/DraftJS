@@ -50,8 +50,10 @@ Selection de cartes:
     - Supprimer les cartes du json local pour ne pas les tirer à nouveau
 
 ### Note, ajout de cette ligne dans le csv originel pour que la conversion en JSON l'utilise comme clé
-> "id", "name", "type", "number"  
-ex: pour *Big Eye*  
+> "id", "name", "type", "number"
+
+ex: pour *Big Eye*
+
 {
     "id": 16768387,
     "name": "Big Eye",
