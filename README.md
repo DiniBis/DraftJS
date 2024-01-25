@@ -1,5 +1,5 @@
 # YGO DRAFT JS
-[Exemple de fichier ydk](/media/logo.png)
+![Beautiful Headhuntress](/media/logo.png)
 
 ## Entrée: Fichier .csv
 [source de fichiers csv de boite de draft](https://ygoprodeck.com/cube/)
@@ -30,7 +30,7 @@ Renvoie *nombre de joueur* fichiers en .ydk pour être lue sur EDOPro
 [prendre des clés aléatoires](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
 [API ygopro](https://ygoprodeck.com/api-guide/)
 Exemple de fichier ydk, format à reprendre pour la sortie dans une balise texte html:
-[Exemple de fichier ydk](/media/ydk.png)
+![Exemple de fichier ydk](/media/ydk.png)
 [Exemple d'un fichier complet](https://github.com/Larikk/ygo-ydk-files/blob/main/deck/STA03%20Joey.ydk)
 ### Fonctions:
 
@@ -60,4 +60,4 @@ ex: pour *Big Eye*
 }
 
 
-[Maquette du rendu final](/media/figma.png)
+![Maquette du rendu final](/media/figma.png)
