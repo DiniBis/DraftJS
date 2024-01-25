@@ -35,17 +35,17 @@ Exemple de fichier ydk, format à reprendre pour la sortie dans une balise texte
 ### Fonctions:
 
 Actualiser l'affichage carte 1: (requêtes à l'API à partir des ID du json local en entrée)
-    - Actualise l'image
-    - Actualise le nom
-    - Actualise le niveau/race/ ATK/DEF /attribut
-    - Actualise la description
-    - Actualise le type
+- Actualise l'image
+- Actualise le nom
+- Actualise le niveau/race/ ATK/DEF /attribut
+- Actualise la description
+- Actualise le type
 
 Tirage de cartes:
-    - Renvoie les id de *nombre de joueurs* cartes du json local aléatoirement
+- Renvoie les id de *nombre de joueurs* cartes du json local aléatoirement
 
 Selection de cartes:
-    - Quand le bouton correspondant à la carte est cliqué
+- Quand le bouton correspondant à la carte est cliqué
     - Copier l'id de la carte dans une liste sous forme .ydk
     - Supprimer les cartes du json local pour ne pas les tirer à nouveau
 
