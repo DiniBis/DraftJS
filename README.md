@@ -1,5 +1,5 @@
 # YGO DRAFT JS
-![Beautiful Headhuntress](/media/logo.png)
+![Beautiful Headhuntress](/media/logo.jpg)
 
 ## Entrée: Fichier .csv
 [source de fichiers csv de boite de draft](https://ygoprodeck.com/cube/)
